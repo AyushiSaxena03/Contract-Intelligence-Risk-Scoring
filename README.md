@@ -210,27 +210,6 @@ All financial values are in **Indian Rupees (₹ / INR)**.
 
 ---
 
-## 👥 Team Members
-
-| Member | Responsibility |
-|--------|---------------|
-| **Gagan** | FastAPI backend, architecture, risk engine, integration, Docker |
-| **Ayushi** | NLP, spaCy NER, clause classification, model evaluation |
-| **Karthika** | Document parsing, OCR, data validation, text chunking |
-| **Charan** | ChromaDB vector database, embeddings, semantic search |
-| **Srinivas** | React frontend dashboard, QA, testing, documentation |
-
----
-
-## 📋 Development Rules
-
-- Work only on your personal branch
-- Never push directly to `main` — create a Pull Request
-- Run tests before every push: `pytest backend/tests -q`
-- Never commit `.env` files, API keys, or real contract documents
-- Push meaningful progress to GitHub every day
-
----
 
 ## ⚠️ Disclaimer
 
